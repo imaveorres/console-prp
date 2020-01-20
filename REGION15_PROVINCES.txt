@@ -1,0 +1,6 @@
+1 Abra
+2 Apayao
+3 Benguet
+4 Ifugao
+5 Kalinga
+6 Mountain_Province

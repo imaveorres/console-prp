@@ -1,0 +1,6 @@
+1 Aklan
+2 Antique
+3 Capiz
+4 Guimaras
+5 Iloilo
+6 Negros_Occidental

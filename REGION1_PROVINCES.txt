@@ -1,0 +1,5 @@
+0 Cebu
+1 Ilocos_Norte
+2 Ilocos_Sur
+3 La_Union
+4 Pangasinan
